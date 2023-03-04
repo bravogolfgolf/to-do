@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 12:13:47</sys_created_on>
+        <sys_id>9dfa50421b41211026440fa2604bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2ea5c021b41211026440fa2604bcb64.x_376477_to_do.create</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_security_acl display_value="d2ea5c021b41211026440fa2604bcb64">aeea5c025a412110ad823770a4254ae7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_9dfa50421b41211026440fa2604bcb28</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:13:47</sys_updated_on>
+        <sys_user_role display_value="x_376477_to_do.create" name="x_376477_to_do.create">d18942081b41211026440fa2604bcb88</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">95f6c6441b41211026440fa2604bcb1d</application>
+        <file_path/>
+        <instance_id>8d859e68db0e9d904d2bac44d4961922</instance_id>
+        <instance_name>dev134502</instance_name>
+        <name>sys_security_acl_role_9dfa50421b41211026440fa2604bcb28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-17 12:13:47</sys_created_on><sys_id>9dfa50421b41211026440fa2604bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_name>d2ea5c021b41211026440fa2604bcb64.x_376477_to_do.create</sys_name><sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package><sys_policy/><sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope><sys_security_acl display_value="d2ea5c021b41211026440fa2604bcb64">aeea5c025a412110ad823770a4254ae7</sys_security_acl><sys_update_name>sys_security_acl_role_9dfa50421b41211026440fa2604bcb28</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-17 12:13:47</sys_updated_on><sys_user_role display_value="x_376477_to_do.create" name="x_376477_to_do.create">d18942081b41211026440fa2604bcb88</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>2008228515</payload_hash>
+        <record_name>d2ea5c021b41211026440fa2604bcb64.x_376477_to_do.create</record_name>
+        <reverted_from/>
+        <source>19f6c6441b41211026440fa2604bcb1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 12:13:47</sys_created_on>
+        <sys_id>91fa50421b41211026440fa2604bcb2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1865f4b7a1e0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:13:47</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>d5fa5042d94121106f21a3a0bfa89d2a</update_guid>
+        <update_guid_history>d5fa5042d94121106f21a3a0bfa89d2a:2008228515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="d2ea5c021b41211026440fa2604bcb64.x_376477_to_do.create">890ed8061b41211026440fa2604bcbce</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:27:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>b801019a3eaa424884d88d8e75215640</sys_id>
+        <sys_metadata>9dfa50421b41211026440fa2604bcb28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d2ea5c021b41211026440fa2604bcb64.x_376477_to_do.create</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_scope_delete display_value="">f4d7afafae6142849bcb046288e48964</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_9dfa50421b41211026440fa2604bcb28</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_9dfa50421b41211026440fa2604bcb28">91fa50421b41211026440fa2604bcb2b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:27:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

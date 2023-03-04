@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_376477_to_do.write" name="x_376477_to_do.write">a18982081b41211026440fa2604bcb88</contains>
+        <role display_value="x_376477_to_do.create" name="x_376477_to_do.create">d18942081b41211026440fa2604bcb88</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-11 15:14:46</sys_created_on>
+        <sys_id>71da4a481b41211026440fa2604bcb9a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376477_to_do.write.x_376477_to_do.create</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>sys_user_role_contains_71da4a481b41211026440fa2604bcb9a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-11 15:14:46</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

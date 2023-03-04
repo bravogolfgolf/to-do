@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="DELETE">
+        <applicability/>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:57:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83d4e00e1b41211026440fa2604bcb28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>m2m_app_config_theme_83d4e00e1b41211026440fa2604bcb28</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:57:03</sys_updated_on>
+        <theme/>
+        <ux_app_configuration display_value="To Do Workspace Config">8cdab6c89605211037409527d16477d9</ux_app_configuration>
+    </m2m_app_config_theme>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">95f6c6441b41211026440fa2604bcb1d</application>
+        <file_path/>
+        <instance_id>8d859e68db0e9d904d2bac44d4961922</instance_id>
+        <instance_name>dev134502</instance_name>
+        <name>m2m_app_config_theme_83d4e00e1b41211026440fa2604bcb28</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme"><m2m_app_config_theme action="INSERT_OR_UPDATE"><applicability/><order>0</order><sys_class_name>m2m_app_config_theme</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-17 12:57:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>83d4e00e1b41211026440fa2604bcb28</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_overrides/><sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package><sys_policy/><sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope><sys_update_name>m2m_app_config_theme_83d4e00e1b41211026440fa2604bcb28</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-17 12:57:03</sys_updated_on><theme/><ux_app_configuration display_value="To Do Workspace Config">8cdab6c89605211037409527d16477d9</ux_app_configuration></m2m_app_config_theme></record_update>]]></payload>
+        <payload_hash>-571289126</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>19f6c6441b41211026440fa2604bcb1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:57:03</sys_created_on>
+        <sys_id>4fd4e00e1b41211026440fa2604bcb29</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1865f7318060000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:57:03</sys_updated_on>
+        <type>UX App Theme</type>
+        <update_guid>83d4e00ea04121102159bf6bcc80cf29</update_guid>
+        <update_guid_history>83d4e00ea04121102159bf6bcc80cf29:-571289126</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">0b05acca1b41211026440fa2604bcb9f</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:57:52</sys_created_on>
+        <sys_db_object display_value="" name="m2m_app_config_theme">m2m_app_config_theme</sys_db_object>
+        <sys_id>0579e861e83b4b8c86c17ce45194c4b9</sys_id>
+        <sys_metadata>83d4e00e1b41211026440fa2604bcb28</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_scope_delete display_value="">f4d7afafae6142849bcb046288e48964</sys_scope_delete>
+        <sys_update_name>m2m_app_config_theme_83d4e00e1b41211026440fa2604bcb28</sys_update_name>
+        <sys_update_version display_value="m2m_app_config_theme_83d4e00e1b41211026440fa2604bcb28">4fd4e00e1b41211026440fa2604bcb29</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:57:52</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

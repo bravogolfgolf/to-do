@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="">52ea5c0227412110c7a66276d73c358f</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">e6ea5c02804121106180ad55017a56b0</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 12:13:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>16ea5c026241211004ca130e6c365395</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>sys_ux_page_property_16ea5c026241211004ca130e6c365395</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:13:40</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_376477_to_do.52ea5c0227412110c7a66276d73c358f.route.chrome_header.e6ea5c02804121106180ad55017a56b0</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">95f6c6441b41211026440fa2604bcb1d</application>
+        <file_path/>
+        <instance_id>8d859e68db0e9d904d2bac44d4961922</instance_id>
+        <instance_name>dev134502</instance_name>
+        <name>sys_ux_page_property_16ea5c026241211004ca130e6c365395</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_header</name><page display_value="">52ea5c0227412110c7a66276d73c358f</page><required_translations>[]</required_translations><route display_value="Search Page">e6ea5c02804121106180ad55017a56b0</route><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-17 12:13:40</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>16ea5c026241211004ca130e6c365395</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_header</sys_name><sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package><sys_policy/><sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope><sys_update_name>sys_ux_page_property_16ea5c026241211004ca130e6c365395</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-17 12:13:40</sys_updated_on><type>json</type><unique_name>x_376477_to_do.52ea5c0227412110c7a66276d73c358f.route.chrome_header.e6ea5c02804121106180ad55017a56b0</unique_name><value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>822412093</payload_hash>
+        <record_name>chrome_header</record_name>
+        <reverted_from/>
+        <source>f0edc6301b30211026440fa2604bcb3c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-01 13:07:49</sys_created_on>
+        <sys_id>79dc14c21b41211026440fa2604bcbd5</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1860d1730880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>39dc14c2ec41211032bf300fbb6b2dd5</update_guid>
+        <update_guid_history>39dc14c2ec41211032bf300fbb6b2dd5:822412093</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:22:01</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>465a66fd66f748fc89b20b824f29fd31</sys_id>
+        <sys_metadata>16ea5c026241211004ca130e6c365395</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_scope_delete display_value="">f4d7afafae6142849bcb046288e48964</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_16ea5c026241211004ca130e6c365395</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_16ea5c026241211004ca130e6c365395">79dc14c21b41211026440fa2604bcbd5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:22:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

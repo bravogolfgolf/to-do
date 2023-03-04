@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="DELETE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>landing</landing_path>
+        <name>To Do Config</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 12:13:39</sys_created_on>
+        <sys_id>9eea5c02f94121100a40be676769278e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Config</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>sys_ux_app_config_9eea5c02f94121100a40be676769278e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:13:39</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">95f6c6441b41211026440fa2604bcb1d</application>
+        <file_path/>
+        <instance_id>8d859e68db0e9d904d2bac44d4961922</instance_id>
+        <instance_name>dev134502</instance_name>
+        <name>sys_ux_app_config_9eea5c02f94121100a40be676769278e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config"><sys_ux_app_config action="INSERT_OR_UPDATE"><active>true</active><custom_icon/><default_route_type/><description/><encode_query_string>false</encode_query_string><icon/><landing_path>landing</landing_path><name>To Do Config</name><prefetch_limits/><sys_class_name>sys_ux_app_config</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-02-17 12:13:39</sys_created_on><sys_id>9eea5c02f94121100a40be676769278e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do Config</sys_name><sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package><sys_policy/><sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope><sys_update_name>sys_ux_app_config_9eea5c02f94121100a40be676769278e</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-02-17 12:13:39</sys_updated_on></sys_ux_app_config></record_update>]]></payload>
+        <payload_hash>-1902885812</payload_hash>
+        <record_name>To Do Config</record_name>
+        <reverted_from/>
+        <source>f0edc6301b30211026440fa2604bcb3c</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-02-01 13:07:49</sys_created_on>
+        <sys_id>743dd8c21b41211026440fa2604bcb0b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>1860d1730880000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX App Configuration</type>
+        <update_guid>343dd8c28c41211004c5838fd5aa6c0b</update_guid>
+        <update_guid_history>343dd8c28c41211004c5838fd5aa6c0b:-1902885812</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 12:23:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_app_config">sys_ux_app_config</sys_db_object>
+        <sys_id>d32e5d6fb35e4768b39aee9c88b07f81</sys_id>
+        <sys_metadata>9eea5c02f94121100a40be676769278e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Config</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_scope_delete display_value="">f4d7afafae6142849bcb046288e48964</sys_scope_delete>
+        <sys_update_name>sys_ux_app_config_9eea5c02f94121100a40be676769278e</sys_update_name>
+        <sys_update_version display_value="sys_ux_app_config_9eea5c02f94121100a40be676769278e">743dd8c21b41211026440fa2604bcb0b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:23:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

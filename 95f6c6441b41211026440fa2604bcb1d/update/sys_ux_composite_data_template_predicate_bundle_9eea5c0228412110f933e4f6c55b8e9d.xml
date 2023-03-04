@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate_bundle">
+    <sys_ux_composite_data_template_predicate_bundle action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>My Tasks - Requested item bundle</name>
+        <sys_class_name>sys_ux_composite_data_template_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-02-17 12:13:41</sys_created_on>
+        <sys_id>9eea5c0228412110f933e4f6c55b8e9d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Tasks - Requested item bundle</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_bundle_9eea5c0228412110f933e4f6c55b8e9d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-02-17 12:13:41</sys_updated_on>
+    </sys_ux_composite_data_template_predicate_bundle>
+</record_update>

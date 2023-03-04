@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>due_date</element>
+        <name>x_376477_to_do_to_do</name>
+        <style>background-color:red;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-11 18:16:42</sys_created_on>
+        <sys_id>b274bac01b05211026440fa2604bcb87</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376477_to_do_to_do</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_update_name>sys_ui_style_b274bac01b05211026440fa2604bcb87</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-11 18:16:42</sys_updated_on>
+        <value>2023-02-10</value>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=b274bac01b05211026440fa2604bcb87"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">95f6c6441b41211026440fa2604bcb1d</application>
+        <file_path/>
+        <instance_id>8d859e68db0e9d904d2bac44d4961922</instance_id>
+        <instance_name>dev134502</instance_name>
+        <name>sys_ui_style_b274bac01b05211026440fa2604bcb87</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>due_date</element><name>x_376477_to_do_to_do</name><style>background-color:red;</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-02-11 18:16:42</sys_created_on><sys_id>b274bac01b05211026440fa2604bcb87</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_376477_to_do_to_do</sys_name><sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package><sys_policy/><sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope><sys_update_name>sys_ui_style_b274bac01b05211026440fa2604bcb87</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-02-11 18:16:42</sys_updated_on><value>2023-02-10</value></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=b274bac01b05211026440fa2604bcb87"/></record_update>]]></payload>
+        <payload_hash>-1380559514</payload_hash>
+        <record_name>x_376477_to_do_to_do</record_name>
+        <reverted_from/>
+        <source>19f6c6441b41211026440fa2604bcb1f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-11 18:16:42</sys_created_on>
+        <sys_id>8374bac01b05211026440fa2604bcb89</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18641b1965a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-11 18:16:42</sys_updated_on>
+        <type>Style</type>
+        <update_guid>c774bac0cb0521104d91a03e9c8e4288</update_guid>
+        <update_guid_history>c774bac0cb0521104d91a03e9c8e4288:-1380559514</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-11 18:31:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>061f59771849409388232c908e72b0a9</sys_id>
+        <sys_metadata>b274bac01b05211026440fa2604bcb87</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_376477_to_do_to_do</sys_name>
+        <sys_package display_value="To Do" source="x_376477_to_do">95f6c6441b41211026440fa2604bcb1d</sys_package>
+        <sys_parent display_value="To Do To Do">112a0e081b41211026440fa2604bcbcd</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="To Do">95f6c6441b41211026440fa2604bcb1d</sys_scope>
+        <sys_scope_delete display_value="">f4d7afafae6142849bcb046288e48964</sys_scope_delete>
+        <sys_update_name>sys_ui_style_b274bac01b05211026440fa2604bcb87</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_b274bac01b05211026440fa2604bcb87">8374bac01b05211026440fa2604bcb89</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-11 18:31:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
